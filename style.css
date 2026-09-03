@@ -172,7 +172,7 @@ img {
   width: min(1080px, calc(100% - 90px));
   min-height: 60vh;
   margin: 0 auto;
-  padding: 100px 0;
+  padding: 65px 0;
   scroll-margin-top: 20px;
 }
 
