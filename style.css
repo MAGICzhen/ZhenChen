@@ -175,6 +175,11 @@ img {
   padding: 65px 0;
   scroll-margin-top: 20px;
 }
+#research,
+#publications {
+  padding-top: 50px;
+}
+
 
 #about {
   min-height: 100vh;
