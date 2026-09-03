@@ -173,7 +173,7 @@ img {
   min-height: 60vh;
   margin: 0 auto;
   padding: 100px 0;
-  scroll-margin-top: 20px;
+  scroll-margin-top: 10px;
 }
  
 #about {
