@@ -157,9 +157,12 @@ img {
   content: "";
 }
 
+.nav-link,
 .external-link {
-  font-size: 14px;
-  text-transform: none;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
 
 
