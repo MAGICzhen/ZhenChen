@@ -259,6 +259,23 @@ img {
   transform: translateY(-3px);
 }
 
+/* Google Scholar icon */
+.social-links .scholar-icon {
+  color: #222222;
+  background: #ffffff;
+  border-color: #d8d8d8;
+}
+
+.social-links .scholar-icon i {
+  font-size: 21px;
+}
+
+/* Hover: black background and white icon */
+.social-links .scholar-icon:hover {
+  color: #ffffff;
+  background: #222222;
+  border-color: #222222;
+}
 
 /* ------------------------------
    Research
