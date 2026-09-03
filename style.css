@@ -219,7 +219,18 @@ img {
   margin-top: 18px;
   margin-bottom: 24px;
 }
-
+#research .section-divider {
+  margin-top: 18px;
+  margin-bottom: 24px;
+}
+#publications .section-divider {
+  margin-top: 18px;
+  margin-bottom: 24px;
+}
+#contact .section-divider {
+  margin-top: 18px;
+  margin-bottom: 24px;
+}
 .about-text {
   max-width: 940px;
 }
